@@ -34,7 +34,7 @@ def generate_word():
 
 def generate_words(wordcount):
     """Returns a list of ``wordcount`` pseudo-words."""
-    return [generate_word() for _ in xrange(wordcount)]
+    return [generate_word() for _ in range(wordcount)]
 
 
 def console_main():

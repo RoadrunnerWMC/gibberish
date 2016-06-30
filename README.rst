@@ -4,6 +4,8 @@ Gibberish: a pseudo-word generator
 
 The ``gibberish`` module let's you generate random, pronounceable pseudo-words. It started life as an `answer on StackOverflow <http://stackoverflow.com/a/5502875/356942>`_ about password generators , but it's also a fun way to coin words or just spark some lexical creativity.
 
+It now supports Python 3, too!
+
 Usage
 -----
 
